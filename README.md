@@ -1,5 +1,3 @@
-# Creating a generic README content for the GW Events Web Scraping project
-readme_content_gw_events_webscraping = """
 # GW Events Web Scraping Project
 
 This project is designed to scrape information about events from specified websites, focusing on collecting data that can be used for event analysis, recommendation systems, or aggregating event information into a centralized platform. The primary goal is to automate the extraction of event details such as names, dates, locations, and descriptions.
